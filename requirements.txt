@@ -1,0 +1,6 @@
+streamlit
+pandas
+datetime
+io
+re
+openpyxl.styles
